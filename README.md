@@ -67,3 +67,6 @@ Submissions will be evaluated holistically, in combination with the rest of your
 ## Support and questions
 
 Feel free to ask for clarifications in the #research-qna channel in the [ACM UTD Discord server](https://discord.gg/nJxRdKdG4d)! You can also directly message ACM Research Co-Directors Pranav Nair or Sisi Aarukapalli-Rose on the ACM Discord server.
+
+
+Note: This file was made in Wolfram Mathematica. If you have the program, you can easily download the .nb file and open it. Otherwise, you can just read the PDF version. Thank you!
